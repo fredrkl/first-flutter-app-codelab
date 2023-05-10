@@ -1,4 +1,4 @@
-# my_first_flutter_codelabs_app
+# My first flutter code labs app
 
 A new Flutter project.
 
